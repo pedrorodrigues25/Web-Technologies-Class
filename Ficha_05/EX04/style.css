@@ -1,4 +1,9 @@
+@font-face {
+    font-family: 'jost';
+    src: url('font/Jost/Jost-VariableFont_wght.ttf');
+}
+
 body{
     background-color: #e2dcff;
-    font-family: ;
+    font-family: 'jost',  
 }
